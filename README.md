@@ -31,22 +31,25 @@ ML algorithms - Regression & Classification
 
 Web Scraping
 
-# Data Science Portfolio
+
 
 <!--
+# Data Science Portfolio
+
+
 ## Overview
 This repository contains a collection of projects in various domains of data science, machine learning, and deep learning. The projects are categorized based on the technologies and techniques used.
--->
+ 
 
 ---
 
 ## R
 
-<!--
+ 
 1. **Data Visualization: Corruption and Human Development**  
    - This project explores the relationship between corruption and human development using UN Human Development Report data.
    - It visualizes the correlation between the **Human Development Index (HDI)** and the **Corruption Perceptions Index (CPI)** through scatter plots.
--->
+ 
 
 2. **Visualizing Inequalities in Life Expectancy**  
    - This project analyzes life expectancy trends worldwide.
@@ -160,11 +163,5 @@ This repository contains a collection of projects in various domains of data sci
    - Forecasts avocado price trends using time series analysis.
    - Uses historical price data for predictive modeling.
 
----
-
-<!--
-
-
- 
--->
+--> 
 
