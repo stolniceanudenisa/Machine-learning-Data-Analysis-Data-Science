@@ -1,7 +1,40 @@
-<<<<<<< HEAD
-# Data-Science-Portfolio:fire:
-![alt text](https://i0.wp.com/www.data-mania.com/blog/wp-content/uploads/2017/09/building-a-data-science-portfolio.png?resize=300%2C169&ssl=1)
-## Contents
+
+# Self-Guided-Projects
+A repository of self-guided projects for Data Science @ GT members, ranging from sentiment analysis, machine learning, time series forecasting, and more.
+
+**If you are a current DSGT member with access to these projects, please DO NOT share the repository with non-DSGT members.**
+
+
+
+
+Data Cleaning Process
+
+Data Mining Tehniques
+
+Data Analysis
+
+Database Connection--- MySql, PostgresSql, Elasticsearch
+
+Dashboard Development
+
+Feature Engineering & Feature Selection Technique
+
+Exploratory Data Analysis
+
+Data Visualization--- MatplotLib, Seaborn
+
+Web Scraping - Scrapy, data collection
+
+Apache Spark
+
+ETL Process
+
+Database connection
+
+ML algorithms - Regression & Classification
+
+Web Scraping
+
 
 - ### R
 
@@ -62,16 +95,6 @@
   3. [Avocado Price Prediction]():Predict the avocado prices given Kaggle dataset.
   
  
-# License
-
-MIT
-
-
-# Help
-
-If you find any mistakes or you can't figure out something, raise a question. I will get back to you as soon as possible. If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at :e-mail:shantanu97@gmail.com
-.More information about me: [LinkedIn](https://www.linkedin.com/in/shantanugupta9326/) :mag_right:
-=======
 # DS-ML-Projects
 A repository of self-guided projects for Data Science, ranging from sentiment analysis, machine learning, time series forecasting, and more.
 
